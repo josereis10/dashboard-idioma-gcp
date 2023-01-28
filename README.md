@@ -1,2 +1,2 @@
 # dashboard-idioma-gcp
-Repositório com imagens da dashboar e idioma da GCP
+Repositório com imagens da dashboard e idioma da GCP
